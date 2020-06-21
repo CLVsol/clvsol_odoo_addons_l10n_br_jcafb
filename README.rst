@@ -2,9 +2,9 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-===============================
-clvsol_odoo_addons_l10nbr_jcafb
-===============================
+================================
+clvsol_odoo_addons_l10n_br_jcafb
+================================
 
 CLVsol Odoo Addons - Brazilian Localization - JCAFB customizations
 
